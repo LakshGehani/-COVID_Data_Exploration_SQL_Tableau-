@@ -1,8 +1,7 @@
 # COVID-19 Data Exploration: SQL and Tableau
 
-![COVID-19](https://www.dropbox.com/scl/fi/z3mtidkds7pzgprjuzis8/download-1.jpeg?rlkey=y80cy3xre90074sd8kygzrfhq&dl=0)
 
-Welcome to the **COVID-19 Data Exploration with SQL and Tableau** project repository. This project is dedicated to delving into the depths of COVID-19 data through the combined power of SQL querying and Tableau visualization. By harnessing the capabilities of these tools, we aim to gain meaningful insights into the pandemic's impact and trends.
+Welcome to the **COVID-19 Data Exploration with SQL and Tableau** project repository. This project is dedicated to delving into the depths of COVID-19 data through the combined power of SQL querying and Tableau visualization. By harnessing the capabilities of these tools, I aim to gain meaningful insights into the pandemic's impact and trends.
 
 ## Project Overview
 
@@ -15,7 +14,6 @@ In this repository, you will find resources and files related to our data explor
 - [Tableau Visualizations](#tableau-visualizations)
 - [How to Use](#how-to-use)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Data Source
 
