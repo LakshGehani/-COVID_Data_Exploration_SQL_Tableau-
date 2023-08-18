@@ -19,7 +19,7 @@ In this repository, you will find resources and files related to our data explor
 
 ## Data Source
 
-Our exploration is built on a comprehensive dataset containing COVID-19 statistics, encompassing cases, recoveries, deaths, and more. The data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) and is available in [CovidDeaths.csv](CovidDeaths.csv) and [CovidVaccinations.csv](CovidVaccinations.csv)
+Our exploration is built on a comprehensive dataset containing COVID-19 statistics, encompassing cases, recoveries, deaths, and more. The data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) and is available in [CovidDeaths](CovidDeaths.xlsx) and [CovidVaccinations](CovidVaccinations.xlsx)
 
 ## SQL Analysis
 
